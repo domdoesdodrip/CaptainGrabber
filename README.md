@@ -3,6 +3,8 @@
 This project is an open-source educational tool written in python that demonstrates how webhook requests work.
 it does not contain or support any malicious features, and it is designed only for learning, auditing, and security research in a controlled environment.
 
+Install: https://github.com/domdoesdodrip/CaptainGrabber/releases/tag/educational-purposes
+
 📌 purpose
 
 show how python can send structured data to a webhook
