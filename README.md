@@ -4,6 +4,7 @@ This project is an open-source educational tool written in python that demonstra
 it does not contain or support any malicious features, and it is designed only for learning, auditing, and security research in a controlled environment.
 
 Install: https://github.com/domdoesdodrip/CaptainGrabber/releases/tag/educational-purposes
+Tutorial: https://www.youtube.com/watch?v=rKs8IHtdTfc
 
 📌 purpose
 
