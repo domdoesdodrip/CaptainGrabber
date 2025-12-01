@@ -1,4 +1,4 @@
-# https://github.com/Blank-c/BlankOBF
+# thanks to https://github.com/Blank-c/BlankOBF for this
 
 import argparse
 import base64
@@ -15,7 +15,7 @@ def printerr(data):
     print(data, file=sys.stderr)
 
 
-class BlankOBF:
+class OBF:
     def __init__(self, code, outputpath):
         self.code = code.encode()
         self.outpath = outputpath
@@ -137,4 +137,5 @@ if __name__ == "__main__":
     with open(sourcefile, encoding="utf-8") as sourcefile:
         code = sourcefile.read()
 
-    BlankOBF(code, args.path)
+    OBF(code, args.path)
+
